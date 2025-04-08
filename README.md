@@ -84,12 +84,10 @@ Hey! I’m <b>Aman Gupta</b>, a 2nd-year B.Tech student in <b>Computer Science a
 ---
 
 # 🛤️ Roadmap
-<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; color: #FFFFFF;">
-- <b>April 2025</b>: Deepen MERN stack expertise.
-- <b>May 2025</b>: Start learning Blockchain fundamentals.
-- <b>June 2025</b>: Integrate AI with MERN projects.
-- <b>Future</b>: Become a Software Engineer & Blockchain Developer!
-</div>
+- **April 2025**: Deepen MERN stack expertise.
+- **May 2025**: Start learning Blockchain fundamentals.
+- **June 2025**: Integrate AI with MERN projects.
+- **Future**: Become a Software Engineer & Blockchain Developer!
 
 ---
 
