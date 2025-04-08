@@ -1,21 +1,23 @@
-<div align="center">
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+There!+I’m+Aman+Gupta;Aspiring+MERN+Stack+Wizard" alt="Typing SVG" />
 </div>
 
 ---
 
 # 💫 About Me
-Hey! I’m **Aman Gupta**, a 2nd-year B.Tech student in **Computer Science and Engineering** at **Hi-Tech Institute of Engineering and Technology, Ghaziabad**. I’m a passionate **MERN Stack Developer** with a knack for crafting powerful and visually stunning web applications. My current toolkit includes **HTML5, CSS3, JavaScript, React.js, Tailwind CSS**, and I’m diving deeper into backend tech like **Node.js, Express.js, and MongoDB**.
+<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; color: #FFFFFF;">
+Hey! I’m <b>Aman Gupta</b>, a 2nd-year B.Tech student in <b>Computer Science and Engineering</b> at <b>Hi-Tech Institute of Engineering and Technology, Ghaziabad</b>. I’m a passionate <b>MERN Stack Developer</b> with a knack for crafting powerful and visually stunning web applications. My current toolkit includes <b>HTML5, CSS3, JavaScript, React.js, Tailwind CSS</b>, and I’m diving deeper into backend tech like <b>Node.js, Express.js, and MongoDB</b>.
 
 ### What I’m Up To:
-- 🏥 Building a **Healthcare Management System** using the MERN stack with **AI integration**.
-- ⛓️ Aiming to master **Blockchain** by **May 2025**.
-- 🌟 Constantly leveling up my skills to become a **Software Engineer** and **Blockchain Developer**.
+- 🏥 Building a <b>Healthcare Management System</b> using the MERN stack with <b>AI integration</b>.
+- ⛓️ Aiming to master <b>Blockchain</b> by <b>May 2025</b>.
+- 🌟 Constantly leveling up my skills to become a <b>Software Engineer</b> and <b>Blockchain Developer</b>.
+</div>
 
 ---
 
 ## 🌐 Connect With Me
-<div align="center">
+<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
   <a href="https://instagram.com/gupta_aman_9161"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/amangupta9454"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
@@ -24,7 +26,7 @@ Hey! I’m **Aman Gupta**, a 2nd-year B.Tech student in **Computer Science and E
 ---
 
 # 💻 My Tech Arsenal
-<div align="center">
+<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -54,7 +56,7 @@ Hey! I’m **Aman Gupta**, a 2nd-year B.Tech student in **Computer Science and E
 ---
 
 # 📊 GitHub Stats
-<div align="center">
+<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=amangupta9454&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aman's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta9454&theme=radical&hide_border=true&background=0D1117" alt="Aman's Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta9454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
@@ -63,7 +65,7 @@ Hey! I’m **Aman Gupta**, a 2nd-year B.Tech student in **Computer Science and E
 ---
 
 # 🚀 Skill Progress
-<div align="center">
+<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px; color: #FFFFFF;">
   <p><b>Frontend Development</b> <progress value="85" max="100"></progress> 85%</p>
   <p><b>Backend Development</b> <progress value="60" max="100"></progress> 60%</p>
   <p><b>MERN Stack</b> <progress value="75" max="100"></progress> 75%</p>
@@ -74,28 +76,34 @@ Hey! I’m **Aman Gupta**, a 2nd-year B.Tech student in **Computer Science and E
 ---
 
 # 🌟 My Projects
+<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; color: #FFFFFF;">
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **Healthcare Management System** | MERN Stack, AI | A full-stack app for managing healthcare data with AI-powered insights. |
-| **College Tech Fest Website** | React, Tailwind CSS | Interactive site for Crossroad 2025 at HIET Ghaziabad. |
+| <b>Healthcare Management System</b> | MERN Stack, AI | A full-stack app for managing healthcare data with AI-powered insights. |
+| <b>College Tech Fest Website</b> | React, Tailwind CSS | Interactive site for Crossroad 2025 at HIET Ghaziabad. |
+</div>
 
 ---
 
 # 🛤️ Roadmap
-- **April 2025**: Deepen MERN stack expertise.
-- **May 2025**: Start learning Blockchain fundamentals.
-- **June 2025**: Integrate AI with MERN projects.
-- **Future**: Become a Software Engineer & Blockchain Developer!
+<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; color: #FFFFFF;">
+- <b>April 2025</b>: Deepen MERN stack expertise.
+- <b>May 2025</b>: Start learning Blockchain fundamentals.
+- <b>June 2025</b>: Integrate AI with MERN projects.
+- <b>Future</b>: Become a Software Engineer & Blockchain Developer!
+</div>
 
 ---
 
 ### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
 ---
 
 ### 🔝 Top Contributed Repo
-<div align="center">
+<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
   <a href="https://github.com/amangupta9454/healthcare-management-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangupta9454&repo=healthcare-management-system&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Repo" />
   </a>
@@ -103,8 +111,8 @@ Hey! I’m **Aman Gupta**, a 2nd-year B.Tech student in **Computer Science and E
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amangupta9454&icon=0&color=9" alt="Visitor Count" />
+<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amangupta9454.amangupta9454&left_color=gray&right_color=cyan" alt="Visitor Count" />
 </div>
 
 <!-- Enhanced with love by Aman Gupta & Grok 3 -->
