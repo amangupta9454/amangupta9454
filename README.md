@@ -76,12 +76,10 @@ Hey! I’m <b>Aman Gupta</b>, a 2nd-year B.Tech student in <b>Computer Science a
 ---
 
 # 🌟 My Projects
-<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; color: #FFFFFF;">
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| <b>Healthcare Management System</b> | MERN Stack, AI | A full-stack app for managing healthcare data with AI-powered insights. |
-| <b>College Tech Fest Website</b> | React, Tailwind CSS | Interactive site for Crossroad 2025 at HIET Ghaziabad. |
-</div>
+| **Healthcare Management System** | MERN Stack, AI | A full-stack app for managing healthcare data with AI-powered insights. |
+| **College Tech Fest Website** | React, Tailwind CSS | Interactive site for Crossroad 2025 at HIET Ghaziabad. |
 
 ---
 
