@@ -18,9 +18,9 @@ Hey! I’m <b>Aman Gupta</b>, a 2nd-year B.Tech student in <b>Computer Science a
 
 ## 🌐 Connect With Me
 <div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
-  <a href="https://instagram.com/gupta_aman_9161"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/amangupta9454"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/gupta_aman_9161"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=pink" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/amangupta9454"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=pink" alt="LinkedIn"></a>
+  <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=pink" alt="Email"></a>
 </div>
 
 ---
