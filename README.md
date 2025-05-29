@@ -1,77 +1,104 @@
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+There!+I’m+Aman+Gupta;Aspiring+MERN+Stack+Wizard" alt="Typing SVG" />
+  <img src="https://github.com/amangupta9454.png" alt="Aman Gupta's Profile Picture" width="150" style="border-radius: 50%; border: 2px solid #00FFFF;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+There!+I’m+Aman+Gupta;Aspiring+MERN+Stack+Wizard;Crafting+Scalable+Web+Solutions" alt="Typing SVG" />
+  <p style="color: #FFFFFF; font-size: 18px;">Explore my projects below! 🚀</p>
 </div>
 
 ---
 
 # 💫 About Me
-<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; color: #FFFFFF;">
-Hey! I’m <b>Aman Gupta</b>, a 2nd-year B.Tech student in <b>Computer Science and Engineering</b> at <b>Hi-Tech Institute of Engineering and Technology, Ghaziabad</b>. I’m a passionate <b>MERN Stack Developer</b> with a knack for crafting powerful and visually stunning web applications. My current toolkit includes <b>HTML5, CSS3, JavaScript, React.js, Tailwind CSS</b>, and I’m diving deeper into backend tech like <b>Node.js, Express.js, and MongoDB</b>.
+<div style="background-color: #0D1117; padding: 20px; border-radius: 10px; color: #FFFFFF;">
+I’m **Aman Gupta**, a 2nd-year B.Tech student in **Computer Science and Engineering** at **Hi-Tech Institute of Engineering and Technology, Ghaziabad**. Passionate about building dynamic web apps as a **MERN Stack Developer**, I’m also exploring **AI** and **Blockchain**.
 
-### What I’m Up To:
-- 🏥 Building a <b>Healthcare Management System</b> using the MERN stack with <b>AI integration</b>.
-- ⛓️ Aiming to master <b>Blockchain</b> by <b>May 2025</b>.
-- 🌟 Constantly leveling up my skills to become a <b>Software Engineer</b> and <b>Blockchain Developer</b>.
+- 🔧 **Skills**: HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+- 🏥 **Current Project**: Building a **Healthcare Management System** with MERN and AI
+- 🎯 **Goals**: Master Blockchain by May 2025, become a Software Engineer
+- ☕ **Fun Fact**: I’m a coffee enthusiast and love solving coding puzzles!
+
+### Achievements:
+- 🏆 Won 2nd place in college hackathon for a React-based app
+- 📜 Certified in JavaScript (FreeCodeCamp)
 </div>
 
 ---
 
 ## 🌐 Connect With Me
 <div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
-  <a href="https://instagram.com/gupta_aman_9161"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=pink" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/amangupta9454"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=pink" alt="LinkedIn"></a>
-  <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=pink" alt="Email"></a>
+  <a href="https://github.com/amangupta9454"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=cyan" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/amangupta9454"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=cyan" alt="LinkedIn"></a>
+  <a href="https://instagram.com/gupta_aman_9161"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=cyan" alt="Instagram"></a>
+  <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=cyan" alt="Email"></a>
+  <a href="https://amangupta.dev"><img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio"></a>
 </div>
 
 ---
 
 # 💻 My Tech Arsenal
-<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <br/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
-  <img src="https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form">
-  <br/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
-  <img src="https://img.shields.io/badge/nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon">
-  <br/>
-  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
+  <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" alt="React Router">
+
+  <h3>Backend</h3>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/JWT-000000?logo=JSON%20web%20tokens&logoColor=white" alt="JWT">
+
+  <h3>Tools</h3>
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white" alt="Render">
 </div>
 
 ---
 
 # 📊 GitHub Stats
 <div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amangupta9454&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aman's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta9454&theme=radical&hide_border=true&background=0D1117" alt="Aman's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta9454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amangupta9454&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Aman's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta9454&theme=dracula&hide_border=true&background=0D1117" alt="Aman's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta9454&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amangupta9454&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
 
 # 🚀 Skill Progress
-<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px; color: #FFFFFF;">
-  <p><b>Frontend Development</b> <progress value="85" max="100"></progress> 85%</p>
-  <p><b>Backend Development</b> <progress value="60" max="100"></progress> 60%</p>
-  <p><b>MERN Stack</b> <progress value="75" max="100"></progress> 75%</p>
-  <p><b>AI Integration</b> <progress value="30" max="100"></progress> 30%</p>
-  <p><b>Blockchain</b> <progress value="10" max="100"></progress> 10%</p>
-</div>
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
+```chartjs
+{
+  "type": "bar",
+  "data": {
+    "labels": ["Frontend", "Backend", "MERN Stack", "AI Integration", "Blockchain"],
+    "datasets": [{
+      "label": "Skill Progress (%)",
+      "data": [85, 60, 75, 30, 10],
+      "backgroundColor": ["#00FFFF", "#FF69B4", "#FFD700", "#00FF7F", "#FF4500"],
+      "borderColor": ["#FFFFFF"],
+      "borderWidth": 1
+    }]
+  },
+  "options": {
+    "scales": {
+      "y": {
+        "beginAtZero": true,
+        "max": 100,
+        "title": { "display": true, "text": "Progress (%)", "color": "#FFFFFF" }
+      },
+      "x": { "title": { "display": true, "text": "Skills", "color": "#FFFFFF" } }
+    },
+    "plugins": {
+      "legend": { "labels": { "color": "#FFFFFF" } },
+      "title": { "display": true, "text": "My Skill Progress (May 2025)", "color": "#FFFFFF" }
+    }
+  }
+}
 
 ---
 
