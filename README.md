@@ -70,43 +70,19 @@ I’m **Aman Gupta**, a 2nd-year B.Tech student in **Computer Science and Engine
 ---
 
 # 🚀 Skill Progress
-<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
-```chartjs
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Frontend", "Backend", "MERN Stack", "AI Integration", "Blockchain"],
-    "datasets": [{
-      "label": "Skill Progress (%)",
-      "data": [85, 60, 75, 30, 10],
-      "backgroundColor": ["#00FFFF", "#FF69B4", "#FFD700", "#00FF7F", "#FF4500"],
-      "borderColor": ["#FFFFFF"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "max": 100,
-        "title": { "display": true, "text": "Progress (%)", "color": "#FFFFFF" }
-      },
-      "x": { "title": { "display": true, "text": "Skills", "color": "#FFFFFF" } }
-    },
-    "plugins": {
-      "legend": { "labels": { "color": "#FFFFFF" } },
-      "title": { "display": true, "text": "My Skill Progress (May 2025)", "color": "#FFFFFF" }
-    }
-  }
-}
+<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px; color: #FFFFFF;">
+  <p><b>Frontend Development</b> <progress value="85" max="100"></progress> 85%</p>
+  <p><b>Backend Development</b> <progress value="60" max="100"></progress> 60%</p>
+  <p><b>MERN Stack</b> <progress value="75" max="100"></progress> 75%</p>
+  <p><b>AI Integration</b> <progress value="30" max="100"></progress> 30%</p>
+  <p><b>Blockchain</b> <progress value="10" max="100"></progress> 10%</p>
+</div>
 
 ---
-
-# 🌟 My Projects
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **Healthcare Management System** | MERN Stack, AI | A full-stack app for managing healthcare data with AI-powered insights. |
-| **College Tech Fest Website** | React, Tailwind CSS | Interactive site for Crossroad 2025 at HIET Ghaziabad. |
+| Project | Tech Stack | Description | Status |
+|---------|------------|-------------|--------|
+| [**Healthcare Management System**](https://github.com/amangupta9454/healthcare-management-system) | MERN Stack, AI | A full-stack app for managing healthcare data with AI-powered insights. |Progress ||
+| [**College Tech Fest Website**](https://github.com/amangupta9454/college-tech-fest) | React, Tailwind CSS | Interactive site for Crossroad 2025 at HIET Ghaziabad |Completed ||
 
 ---
 
