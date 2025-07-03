@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
   <img src="https://github.com/amangupta9454.png" alt="Aman Gupta's Profile Picture" width="150" style="border-radius: 50%; border: 2px solid #00FFFF;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=Hey+There!+I’m+Aman+Gupta;Aspiring+MERN+Stack+Wizard;Crafting+Scalable+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+There!+I’m+Aman+Gupta;Aspiring+MERN+Stack+Wizard;Crafting+Scalable+Web+Solutions" alt="Typing SVG" />
   <p style="color: #FFFFFF; font-size: 18px;">Explore my projects below! 🚀</p>
 </div>
 
