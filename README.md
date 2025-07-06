@@ -16,7 +16,7 @@ I’m **Aman Gupta**, a 2nd-year **B.Tech student in Computer Science and Engine
 - ☕ **Fun Fact**: I’m a coffee enthusiast and love solving coding puzzles!
 
 ### Achievements:
-- 🏆 Won 2nd place in college hackathon for a React-based app
+- 🏆 Won 1st place in college tech fest.
 - 📜 Certified in JavaScript (FreeCodeCamp)
 </div>
 
