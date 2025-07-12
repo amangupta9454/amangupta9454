@@ -7,8 +7,8 @@
 ---
 
 # 💫 About Me
-- 📚 Final-year Computer Science student, graduating in 2025.
-- 💻 Strong foundation in Programming, Data Structures, and Web Development.
+- 📚 Pre-Final-year Computer Science student, graduating in 2027.
+- 💻 Strong foundation in Programming, Data Structures,Data Analyst,Cloud Computing and Web Development.
 - 🌐 Dedicated to crafting efficient and user-friendly solutions.
 - 🤝 Open to collaboration and eager to grow in the ever-evolving field of Computer Science.
 
@@ -19,8 +19,6 @@
 
 ### Achievements:
 - 🏆 Won 1st place in college tech fest.
-
-
 ---
 
 ## 🌐 Connect With Me
