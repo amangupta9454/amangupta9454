@@ -8,7 +8,7 @@
 
 # 💫 About Me
 <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; color: #FFFFFF;">
-I’m **Aman Gupta**, a 2nd-year B.Tech student in Computer Science and Engineering at Hi-Tech Institute of Engineering and Technology, Ghaziabad. Passionate about building dynamic web apps as a **MERN Stack Developer**, I’m also exploring AI and Blockchain.
+I’m Aman Gupta, a 2nd-year B.Tech student in Computer Science and Engineering at Hi-Tech Institute of Engineering and Technology, Ghaziabad. Passionate about building dynamic web apps as a MERN Stack Developer, I’m also exploring AI and Blockchain.
 
 - 🔧 **Skills**: HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Node.js, Express.js, MongoDB
 - 🏥 **Current Project**: Building a **Healthcare Management System** with MERN and AI
@@ -17,7 +17,6 @@ I’m **Aman Gupta**, a 2nd-year B.Tech student in Computer Science and Engineer
 
 ### Achievements:
 - 🏆 Won 1st place in college tech fest.
-- 📜 Certified in JavaScript (FreeCodeCamp)
 </div>
 
 ---
@@ -28,7 +27,7 @@ I’m **Aman Gupta**, a 2nd-year B.Tech student in Computer Science and Engineer
   <a href="https://linkedin.com/in/amangupta9454"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=cyan" alt="LinkedIn"></a>
   <a href="https://instagram.com/gupta_aman_9161"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=cyan" alt="Instagram"></a>
   <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=cyan" alt="Email"></a>
-  <a href="https://amangupta.dev"><img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio"></a>
+  <a href="https://guptaaman.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio"></a>
 </div>
 
 ---
