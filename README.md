@@ -7,8 +7,10 @@
 ---
 
 # 💫 About Me
-<div style="background-color: #0D1117; padding: 20px; border-radius: 10px; color: #FFFFFF;">
-I’m Aman Gupta, a 2nd-year B.Tech student in Computer Science and Engineering at Hi-Tech Institute of Engineering and Technology, Ghaziabad. Passionate about building dynamic web apps as a MERN Stack Developer, I’m also exploring AI and Blockchain.
+- 📚 Final-year Computer Science student, graduating in 2025.
+- 💻 Strong foundation in Programming, Data Structures, and Web Development.
+- 🌐 Dedicated to crafting efficient and user-friendly solutions.
+- 🤝 Open to collaboration and eager to grow in the ever-evolving field of Computer Science.
 
 - 🔧 **Skills**: HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Node.js, Express.js, MongoDB
 - 🏥 **Current Project**: Building a **Healthcare Management System** with MERN and AI
@@ -17,7 +19,7 @@ I’m Aman Gupta, a 2nd-year B.Tech student in Computer Science and Engineering 
 
 ### Achievements:
 - 🏆 Won 1st place in college tech fest.
-</div>
+
 
 ---
 
