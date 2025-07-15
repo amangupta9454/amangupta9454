@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&duration=3500&pause=600&color=00D4FF¢er=true&vCenter=true&width=700&lines=Hello,+I'm+Aman+Gupta;MERN+Stack+Innovator;Building+Future-Ready+Web+Apps;Passionate+About+Tech+&+Impact" alt="Typing SVG" style="margin: 20px 0; max-width: 100%;" />
 
@@ -228,4 +228,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amangupta9454.amangupta9454&left_color=0a0e1a&right_color=00D4FF" alt="Visitor Count" />
 </div>
 
-<!-- Crafted with precision by Aman Gupta -->
+<!-- Crafted with precision by Aman Gupta --> 
