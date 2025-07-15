@@ -5,7 +5,7 @@
 <div align="center" style="background: linear-gradient(145deg, #0a0e1a 0%, #121735 100%); padding: 40px; border-radius: 20px; box-shadow: 0 12px 48px rgba(0, 0, 0, 0.5); position: relative; overflow: hidden; margin: 30px 0; animation: fadeIn 0.5s ease-out forwards;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle at 3px 3px, rgba(0, 212, 255, 0.12) 1.5px, transparent 1.5px); background-size: 25px 25px; opacity: 0.25;"></div>
   <img src="https://github.com/amangupta9454.png" alt="Aman Gupta's Profile Picture" width="170" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 25px rgba(0, 212, 255, 0.7); transition: transform 0.4s ease, box-shadow 0.4s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 40px rgba(0, 212, 255, 0.9)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(0, 212, 255, 0.7)'">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&duration=3500&pause=600&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello,+I'm+Aman+Gupta;MERN+Stack+Innovator;Building+Future-Ready+Web+Apps;Passionate+About+Tech+&+Impact" alt="Typing SVG" style="margin: 20px 0; max-width: 100%;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&duration=3500&pause=600&color=00D4FF¢er=true&vCenter=true&width=700&lines=Hello,+I'm+Aman+Gupta;MERN+Stack+Innovator;Building+Future-Ready+Web+Apps;Passionate+About+Tech+&+Impact" alt="Typing SVG" style="margin: 20px 0; max-width: 100%;" />
   <p style="color: #E5E7EB; font-size: 18px; font-family: 'Inter', sans-serif; font-weight: 300; line-height: 1.6; max-width: 600px; margin: 0 auto;">A pre-final-year Computer Science student crafting scalable, user-centric solutions with a touch of creativity. Let's build something extraordinary! 🚀</p>
 </div>
 
@@ -160,7 +160,7 @@
     </tr>
     <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
       <td style="padding: 15px;">AI Feature Development</td>
-      <td style="padding: 15px;">Working on AI-driven features for the Healthcare Management System.</td>
+      <td style="padding: 15px;">Working on AI-driven features for the Healthcare Management System as of 08:25 AM IST, July 15, 2025.</td>
     </tr>
     <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
       <td style="padding: 15px;">Open-Source Contribution</td>
