@@ -218,6 +218,9 @@
   <p style="font-style: italic; max-width: 600px; margin: 15px auto 0;">"His work on the tech fest website was seamless and professional." – <strong>Event Organizer</strong></p>
 </div>
 
+<!-- Contribution chart -->
+<img src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/output/snake.svg" alt="Snake animation" width="100%" />
+
 ---
 
 <div align="center" style="background: linear-gradient(145deg, #0a0e1a 0%, #121735 100%); padding: 15px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); margin: 30px 0; animation: fadeIn 0.5s ease-out forwards;">
