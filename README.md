@@ -107,7 +107,14 @@
 <div align="center" style="background: linear-gradient(145deg, #0a0e1a 0%, #121735 100%); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); margin: 30px 0; display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; animation: fadeIn 0.5s ease-out forwards;">
   <img src="https://github-readme-stats.vercel.app/api?username=amangupta9454&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0e1a&title_color=00D4FF&text_color=E5E7EB" alt="GitHub Stats" style="max-width: 100%;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta9454&theme=transparent&hide_border=true&background=0a0e1a&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=00D4FF&sideLabels=E5E7EB" alt="Streak Stats" style="max-width: 100%;"/>
+  <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta9454&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
+          width="470"
+        />
 </div>
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta9454&theme=algolia" alt="Profile Summary Card" width="95%"/>
+</p>
 
 ---
 
@@ -160,7 +167,7 @@
     </tr>
     <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
       <td style="padding: 15px;">AI Feature Development</td>
-      <td style="padding: 15px;">Working on AI-driven features for the Healthcare Management System as of 08:25 AM IST, July 15, 2025.</td>
+      <td style="padding: 15px;">Working on AI-driven features for the Healthcare Management System as of 08:40 AM IST, July 15, 2025.</td>
     </tr>
     <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
       <td style="padding: 15px;">Open-Source Contribution</td>
@@ -176,45 +183,4 @@
 ---
 
 ## 🛤️ Tech Journey
-<div align="center" style="background: linear-gradient(145deg, #0a0e1a 0%, #121735 100%); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); margin: 30px 0; font-family: 'Inter', sans-serif; color: #E5E7EB; font-size: 15px; animation: fadeIn 0.5s ease-out forwards;">
-  <h3 style="color: #00D4FF; font-size: 24px; font-weight: 700; margin-bottom: 20px;">My Roadmap</h3>
-  <table style="width: 100%; max-width: 900px; border-collapse: collapse;">
-    <tr style="background: #0D1117;">
-      <th style="padding: 15px; text-align: left; font-weight: 600; color: #00D4FF;">Milestone</th>
-      <th style="padding: 15px; text-align: left; font-weight: 600; color: #00D4FF;">Description</th>
-    </tr>
-    <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
-      <td style="padding: 15px;">June 2025</td>
-      <td style="padding: 15px;">Master advanced MERN stack techniques</td>
-    </tr>
-    <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
-      <td style="padding: 15px;">September 2025</td>
-      <td style="padding: 15px;">Dive into Blockchain development</td>
-    </tr>
-    <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
-      <td style="padding: 15px;">June 2025</td>
-      <td style="padding: 15px;">Integrate AI into MERN projects</td>
-    </tr>
-    <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
-      <td style="padding: 15px;">Future</td>
-      <td style="padding: 15px;">Lead as a Software Engineer & Blockchain innovator</td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 💬 Testimonials
-<div align="center" style="background: linear-gradient(145deg, #0a0e1a 0%, #121735 100%); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); margin: 30px 0; font-family: 'Inter', sans-serif; color: #E5E7EB; font-size: 15px; animation: fadeIn 0.5s ease-out forwards;">
-  <h3 style="color: #00D4FF; font-size: 24px; font-weight: 700; margin-bottom: 20px;">What Others Say</h3>
-  <p style="font-style: italic; max-width: 600px; margin: 0 auto;">"Aman’s dedication to clean code and innovative solutions is inspiring. A true asset to any team!" – <strong>Project Mentor, HIET</strong></p>
-  <p style="font-style: italic; max-width: 600px; margin: 15px auto 0;">"His work on the tech fest website was seamless and professional." – <strong>Event Organizer</strong></p>
-</div>
-
----
-
-<div align="center" style="background: linear-gradient(145deg, #0a0e1a 0%, #121735 100%); padding: 15px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); margin: 30px 0; animation: fadeIn 0.5s ease-out forwards;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amangupta9454.amangupta9454&left_color=0a0e1a&right_color=00D4FF" alt="Visitor Count" />
-</div>
-
-<!-- Crafted with precision by Aman Gupta -->
+<div align="center" style="background: linear-gradient(145deg, #0a0e1a 0%, #121735 100%); padding:
