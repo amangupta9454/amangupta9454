@@ -112,9 +112,7 @@
           width="470"
         />
 </div>
-<p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta9454&theme=algolia" alt="Profile Summary Card" width="95%"/>
-</p>
+
 
 ---
 
