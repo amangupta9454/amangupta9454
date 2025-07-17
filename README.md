@@ -87,13 +87,13 @@
       <th style="padding: 15px; text-align: left; font-weight: 600; color: #00D4FF;">Status</th>
     </tr>
     <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
-      <td style="padding: 15px;"><a href="https://github.com/amangupta9454/healthcare-management-system" style="color: #00D4FF; text-decoration: none;">Healthcare Management System</a></td>
+      <td style="padding: 15px;"><a href="https://amanhealth.netlify.app/" style="color: #00D4FF; text-decoration: none;">Healthcare Management System</a></td>
       <td style="padding: 15px;">MERN Stack, AI</td>
       <td style="padding: 15px;">A MERN stack app with AI-driven insights for managing healthcare data.</td>
       <td style="padding: 15px; color: #22D3EE;">In Progress</td>
     </tr>
     <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
-      <td style="padding: 15px;"><a href="https://github.com/amangupta9454/college-tech-fest" style="color: #00D4FF; text-decoration: none;">College Tech Fest Website</a></td>
+      <td style="padding: 15px;"><a href="https://crossroad2025.netlify.app/" style="color: #00D4FF; text-decoration: none;">College Tech Fest Website</a></td>
       <td style="padding: 15px;">React, Tailwind CSS</td>
       <td style="padding: 15px;">Interactive React-based site for Crossroad 2025 at HIET Ghaziabad.</td>
       <td style="padding: 15px; color: #22D3EE;">Completed</td>
