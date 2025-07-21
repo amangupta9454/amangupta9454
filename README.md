@@ -24,6 +24,7 @@
   <h3 style="color: #00D4FF; font-size: 22px; font-weight: 600; margin: 20px 0 10px;">Achievements</h3>
   <ul style="list-style: none; padding: 0; font-size: 16px; line-height: 1.8;">
     <li>🏆 <strong>1st Place</strong> – GAMBED Quiz (2024), surpassing 200+ competitors</li>
+   <li>🏆 <strong>1st Place</strong> – Coding Contest (2025), surpassing 1000+ competitors</li>
     <li>🌟 Recognized for innovative contributions in institute projects</li>
   </ul>
 </div>
@@ -47,32 +48,52 @@
 ---
 
 ## 💻 Tech Stack
-<div align="center" style="background: linear-gradient(145deg, #0a0e1a 0%, #121735 100%); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); margin: 30px 0; font-family: 'Inter', sans-serif; animation: fadeIn 0.5s ease-out forwards;">
-  <h3 style="color: #00D4FF; font-size: 24px; font-weight: 700; margin-bottom: 20px;">Highlighted Skills</h3>
-  <table style="width: 100%; max-width: 900px; border-collapse: collapse; color: #E5E7EB; font-size: 15px;">
-    <tr>
-      <th style="padding: 15px; text-align: left; font-weight: 600; color: #00D4FF;">Frontend</th>
-      <th style="padding: 15px; text-align: left; font-weight: 600; color: #00D4FF;">Backend</th>
-      <th style="padding: 15px; text-align: left; font-weight: 600; color: #00D4FF;">Database</th>
-    </tr>
-    <tr style="transition: background 0.3s ease;" onmouseover="this.style.background='#1F2937'" onmouseout="this.style.background='transparent'">
-      <td style="padding: 15px; display: flex; flex-wrap: wrap; gap: 10px;">
-        <div style="text-align: center;"><img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="32"><p style="margin: 5px 0;">HTML5</p></div>
-        <div style="text-align: center;"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="32"><p style="margin: 5px 0;">CSS3</p></div>
-        <div style="text-align: center;"><img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="32"><p style="margin: 5px 0;">JavaScript</p></div>
-        <div style="text-align: center;"><img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="32"><p style="margin: 5px 0;">React</p></div>
-        <div style="text-align: center;"><img src="https://img.icons8.com/color/48/tailwind_css.png" alt="TailwindCSS" width="32"><p style="margin: 5px 0;">Tailwind CSS</p></div>
-      </td>
-      <td style="padding: 15px; display: flex; flex-wrap: wrap; gap: 10px;">
-        <div style="text-align: center;"><img src="https://img.icons8.com/color/48/nodejs.png" alt="NodeJS" width="32"><p style="margin: 5px 0;">Node.js</p></div>
-        <div style="text-align: center;"><img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js" width="32"><p style="margin: 5px 0;">Express.js</p></div>
-      </td>
-      <td style="padding: 15px; display: flex; flex-wrap: wrap; gap: 10px;">
-        <div style="text-align: center;"><img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="32"><p style="margin: 5px 0;">MongoDB</p></div>
-      </td>
-    </tr>
-  </table>
-</div>
+
+### 🖥️ Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
+
+### 🛠️ Backend  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### 🗄️ Database  
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-E55829?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Tools-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+
 
 ---
 
