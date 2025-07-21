@@ -9,103 +9,157 @@
 
 ## 🚀 About Me
 
-- 💡 Innovating at the intersection of AI & Web Development  
-- 🔭 Currently building **AI Career Coach** with personalized career pathing  
-- 🌱 Deep diving into `LLMs`, `Three.js`, and advanced `Next.js`  
-- 🤝 Always open to collaboration on real-world impactful projects  
-- 📬 Reach me: [Email me](mailto:ag0567688@gmail.com)
+- 💡 Innovating at the intersection of **AI & Web Development**
+- 🔭 Currently building **AI Career Coach** with cutting-edge career intelligence
+- 🌱 Exploring `LLMs`, `Next.js`, `Three.js`, and latest frontend trends
+- 🤝 Open to collaborating on impactful and open source projects
+- 📬 Reach me at: [ag0567688@gmail.com](mailto:ag0567688@gmail.com)
+- 🗂️ Passionate about hackathons and developer communities
 
 ---
 
-## 🛠 Tech Toolbox
+## 🏆 Quick Highlights
+
+| 🚩         | Milestone / Fact                      |
+|------------|---------------------------------------|
+| 🚀         | 8+ Major Fullstack Projects           |
+| 🏅         |Top Ranker in Coding and Gambed Contest|
+| 🌍         | Projects used by 50+ users            |
+
+---
+
+## 🛠 Tech & Tools
+
+<details>
+<summary>Expand to See Full Stack</summary>
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,c,js" />
 </p>
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,threejs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,threejs,html,css" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
 
-### 🔧 Backend
-<p>
+### 🔧 Backend & AI
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://img.shields.io/badge/Gemini-byGoogle-black?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### 🗃️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+### 🗃️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker" />
+</p>
+
+### ⚙️ Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Nodemailer-E55829?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Tools-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+</details>
 
 ---
 
 ## 🌟 Featured Projects
 
-| Name | Description | Stack |
-|------|-------------|-------|
-| 🧠 **AI Career Coach** | Personalized career roadmap using AI | React, Node.js, Gemini, Tailwind |
-| 💼 **Portfolio Website** | Animated, 3D portfolio site | React, Three.js, GSAP |
-| 📄 **Agri Tech** | One place for Farmer and Consumer | React, MongoDB, Node.js, Gemini |
-
-🔗 Visit Portfolio → [Portfolio](https://guptaaman.netlify.app/)
-
----
-
-## 🎯 2025 Learning Goals
-
-- ✅ Complete LLM-Learning  
-- [ ] Learn `Next.js` App Router deeply  
-- [ ] Launch a SaaS side project    
+| 🚀 Project                   | 🧩 Description                                     | 🛠️ Stack                             | 🔗 Demo |
+|------------------------------|-----------------------------------------------------|---------------------------------------|--------------|
+| 🧠 AI Career Coach            | AI-powered, tailored career roadmap                | React, Node.js, Gemini, Tailwind      | [Live](https://mindstep.netlify.app/)      |
+| 💼 Portfolio Website          | Animated 3D developer portfolio                    | React, GSAP, Three.js                 | [Live](https://guptaaman.netlify.app/)     |
+| 📄 Agri Tech                  | One-stop app for farmers & consumers               | MERN Stack, Gemini API                | [Live](https://agrifarmio.netlify.app/)    |
+| 🤖 College Tech Fest          | One-stop app for College & Students                | MERN Stack                            | [Live](https://crossroad2025.netlify.app/) |
+| 🎬 AI HealthCare Website      | One-stop app for Hospital & Patient                | MERN Stack, Gemini API                | [Live](https://amanhealth.netlify.app/)    |
+| 💬 TEAM UP Website            | One-stop app for Team Leader & Team Member         |  MERN Stack                           | [Live](https://hietteam.netlify.app/)      |     
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🆕 Exciting Features
 
-- 🥇 **Rank 1** – CodeRush 4th Weekly Coding Contest 
-- 🥇 **Rank 1** – Gambed Quiz  
-- ✅ **Contributor** – GirlScript Summer of Code  
-- 🧩 6+ Industry certifications  
-- 💡 Finalist – AI/ML Hackathon @ Hackverse  
-
----
-
-## 📌 Quote I Believe
-
-> "Great developers don’t just write code — they craft experiences."
+- **📊 Dynamic GitHub Stats & Activity**
+- **🎯 Interactive Learning Roadmap** — Progress Badges!
+- **🌈 Animated Streaks, Graphs, and Cards**
+- **👤 Visitors Badge for Social Proof**
+- **✨ Collapsible Stack & Tools Section** for clean design
+- **🖼️ Dev Achievements Timeline** (visual journey)
+- **🌐 Social Preview Card** (shareable on Twitter/X)
+- **🚀 Deploy Button for Demo Projects**
+- **🎥 Add GIF demo** or video link for flagship project (optional)
 
 ---
 
-## 📈 GitHub Analytics
+## 📚 Learning Roadmap – 2025
+
+- ✅ Mastered foundational `LLMs`
+- 🔍 Deep dive: `Next.js & DSA` & Edge Functions
+- 🔁 Launch new SaaS side project
+- 👩‍💻 Major AI open source contributions
+- 📈 Public speaking on frontend & AI
+
+---
+
+## 🏅 Certifications & Achievements
+
+
+- ✅ Contributor – GirlScript Summer of Code
+- 🪪 6+ Industry Certifications, including Cloud Computing
+- 🥇 Winner – CodeRush Weekly #4
+- 🏅 Winner – Gambed Quiz Contest
+
+---
+
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amangupta9454&show_icons=true&theme=transparent&hide_border=false&hide_title=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta9454&theme=transparent&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amangupta9454&show_icons=true&theme=transparent&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta9454&theme=transparent" width="48%" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta9454&theme=transparent" width="96%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta9454&theme=github-compact" width="96%" />
+</p>
+
+---
+
+## 📅 Achievements Timeline (NEW!)
+
+| Year | Milestone                         |
+|------|-----------------------------------|
+| 2025 | Launched AI Career Coach v2.0     |
+| 2024 | Delivered 3 Full Stack Projects   |
+| 2025 | Participated in Hackathon         |
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/amangupta9454/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://guptaaman.netlify.app/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amangupta9454/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://guptaaman.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+  <a href="https://twitter.com/ag0567688"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center"><b>✨ Thanks for visiting! Let's build something awesome together.</b></p>
+## 📌 Quote I Believe
+
+> “Great developers don’t just write code — they craft experiences.”
+
+<p align="center"><b>✨ Thanks for visiting — let's build something awesome together! ✨</b></p>
+
+---
+
+
