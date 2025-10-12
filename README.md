@@ -76,10 +76,10 @@
 | 🚀 Project                   | 🧩 Description                                     | 🛠️ Stack                             | 🔗 Demo |
 |------------------------------|-----------------------------------------------------|---------------------------------------|--------------|
 | 🧠 AI Career Coach            | AI-powered, tailored career roadmap                | React, Node.js, Gemini, Tailwind      | [Live](https://mindstep.netlify.app/)      |
-| 💼 Portfolio Website          | Animated 3D developer portfolio                    | React, GSAP, Three.js                 | [Live](https://guptaaman.netlify.app/)     |
+| 💼 Portfolio Website          | Animated 3D developer portfolio                    | React, GSAP, Three.js                 | [Live](http://gupta-aman-portfolio.netlify.app/)     |
 | 📄 Agri Tech                  | One-stop app for farmers & consumers               | MERN Stack, Gemini API                | [Live](https://agrifarmio.netlify.app/)    |
-| 🤖 College Tech Fest          | One-stop app for College & Students                | MERN Stack                            | [Live](https://crossroad2025.netlify.app/) |
-| 🎬 AI HealthCare Website      | One-stop app for Hospital & Patient                | MERN Stack, Gemini API                | [Live](https://amanhealth.netlify.app/)    |
+| 🤖 College Tech Fest          | One-stop app for College & Students                | MERN Stack, gsap,framer-motion        | [Live](https://hiet-crossroads.netlify.app/) |
+| 🎬 College Technical Club     | One-stop app for Coders & Innovators               | React, GSAP, Framer-motion            | [Live](https://techfusion-hiet.netlify.app/)    |
 | 💬 TEAM UP Website            | One-stop app for Team Leader & Team Member         |  MERN Stack                           | [Live](https://hietteam.netlify.app/)      |     
 
 ---
@@ -148,7 +148,7 @@
 <p align="center">
   <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/amangupta9454/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://guptaaman.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+  <a href="http://gupta-aman-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
   <a href="https://twitter.com/ag0567688"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
