@@ -1,10 +1,18 @@
 <section align="center">
 
 <h1>👋 Hi there, I'm <span style="color:#00B8D4;">Aman Gupta</span></h1>
-<h3>MERN Stack Developer | AI Enthusiast | Open Source Contributor</h3>
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+AI+Explorer;Building+AI+Career+Coach+Platforms;Open+Source+Contributor+%7C+Always+Learning" />
+<b>MERN Stack Developer • AI Enthusiast • Open Source Contributor</b>
+</p>
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00B8D4&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+AI+Explorer;Building+AI+Career+Coach+Platforms;Open+Source+Contributor+%7C+Always+Learning;Passionate+About+Solving+Real+World+Problems" />
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=amangupta9454&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/amangupta9454?style=for-the-badge" />
 </p>
 
 </section>
@@ -16,12 +24,11 @@
 <h2>🚀 About Me</h2>
 
 <p>
-💡 Innovating at the intersection of <b>AI & Web Development</b><br>
-🔭 Currently building <b>MATRUCARE AI</b> with cutting-edge healthcare intelligence<br>
-🌱 Exploring <code>LLMs</code>, <code>Machine Learning</code>, <code>Data Science</code>, and modern frontend technologies<br>
-🤝 Open to collaborating on impactful and open source projects<br>
-📬 Reach me at: <a href="mailto:ag0567688@gmail.com">ag0567688@gmail.com</a><br>
-🗂️ Passionate about hackathons and developer communities
+💡 I build <b>AI-powered full-stack applications</b> that solve real-world problems.<br>
+🔭 Currently developing <b>MATRUCARE AI</b>, an intelligent maternal healthcare platform.<br>
+🌱 Exploring <b>Machine Learning, LLMs, and Data Science</b>.<br>
+🤝 Open to collaboration on <b>impactful tech and open-source projects</b>.<br>
+📬 Contact me: <a href="mailto:ag0567688@gmail.com">ag0567688@gmail.com</a>
 </p>
 
 </section>
@@ -30,44 +37,40 @@
 
 <section>
 
-<h2>🏆 Quick Highlights</h2>
+<h2>🏆 Achievements</h2>
 
-<table border="1" cellpadding="10" cellspacing="0">
-<thead>
-<tr>
-<th>🚩</th>
-<th>Milestone / Fact</th>
-</tr>
-</thead>
-
-<tbody>
+<table border="1" cellpadding="10">
 
 <tr>
-<td>🚀</td>
-<td>8+ Major Fullstack Projects</td>
+<th>🏅</th>
+<th>Achievement</th>
 </tr>
 
 <tr>
-<td>🏅</td>
+<td>🥇</td>
 <td>1st Place – Crossroads 2026 Project Exhibition</td>
 </tr>
 
 <tr>
-<td>📄</td>
+<td>🥇</td>
 <td>1st Place – Scrolls’25 National Technical Paper Presentation (AKGEC)</td>
 </tr>
 
 <tr>
-<td>💡</td>
+<td>🥈</td>
 <td>2nd Position – Tech Fusion 2025 Tech Think Tank (IPEM)</td>
 </tr>
 
 <tr>
-<td>🌍</td>
-<td>Projects used by 50+ users</td>
+<td>🚀</td>
+<td>Built 8+ Full Stack Projects</td>
 </tr>
 
-</tbody>
+<tr>
+<td>🌍</td>
+<td>Projects actively used by 50+ users</td>
+</tr>
+
 </table>
 
 </section>
@@ -76,41 +79,44 @@
 
 <section>
 
-<h2>🛠 Tech & Tools</h2>
+<h2>🛠 Tech Stack</h2>
 
-<h3>💻 Languages</h3>
+<h3>Languages</h3>
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,c,js" />
+<img src="https://skillicons.dev/icons?i=js,typescript,python,c" />
 </p>
 
-<h3>🎨 Frontend</h3>
+<h3>Frontend</h3>
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,threejs,html,css" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
 
-<h3>🔧 Backend & AI</h3>
+<h3>Backend</h3>
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-<img src="https://img.shields.io/badge/Gemini-byGoogle-black?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-AI-black?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" />
 </p>
 
-<h3>🗃 Databases</h3>
+<h3>Databases</h3>
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-<h3>☁️ Cloud & DevOps</h3>
+<h3>Cloud & DevOps</h3>
+
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,netlify,docker" />
 </p>
 
-<h3>⚙️ Developer Tools</h3>
+<h3>Tools</h3>
+
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-<img src="https://img.shields.io/badge/Nodemailer-E55829?style=for-the-badge&logoColor=white" />
 </p>
 
 </section>
@@ -121,62 +127,49 @@
 
 <h2>🌟 Featured Projects</h2>
 
-<table border="1" cellpadding="10" cellspacing="0">
+<table border="1" cellpadding="10">
 
-<thead>
 <tr>
-<th>🚀 Project</th>
-<th>🧩 Description</th>
-<th>🛠 Stack</th>
-<th>🔗 Demo</th>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+<th>Demo</th>
 </tr>
-</thead>
-
-<tbody>
 
 <tr>
 <td>🧠 AI Career Coach</td>
 <td>AI-powered career roadmap generator</td>
-<td>React, Node.js, Gemini, Tailwind</td>
+<td>React • Node • Gemini</td>
 <td><a href="https://mindstep.netlify.app/">Live</a></td>
 </tr>
 
 <tr>
-<td>💼 Portfolio Website</td>
-<td>Animated 3D developer portfolio</td>
-<td>React, GSAP, Three.js</td>
+<td>💼 Developer Portfolio</td>
+<td>Interactive 3D animated portfolio</td>
+<td>React • Three.js • GSAP</td>
 <td><a href="http://gupta-aman-portfolio.netlify.app/">Live</a></td>
 </tr>
 
 <tr>
-<td>📄 Agri Tech</td>
-<td>One-stop app for farmers & consumers</td>
-<td>MERN Stack, Gemini API</td>
+<td>🌾 AgriFarmio</td>
+<td>Smart agriculture platform</td>
+<td>MERN • Gemini API</td>
 <td><a href="https://agrifarmio.netlify.app/">Live</a></td>
 </tr>
 
 <tr>
-<td>🤖 College Tech Fest</td>
-<td>One-stop platform for college events</td>
-<td>MERN Stack, GSAP, Framer Motion</td>
+<td>🎓 Crossroads Tech Fest</td>
+<td>Event platform for college tech fest</td>
+<td>MERN • GSAP</td>
 <td><a href="https://hiet-crossroads.netlify.app/">Live</a></td>
 </tr>
 
 <tr>
-<td>🎬 Technical Club Website</td>
-<td>Platform for coders & innovators</td>
-<td>React, GSAP, Framer Motion</td>
-<td><a href="https://techfusion-hiet.netlify.app/">Live</a></td>
-</tr>
-
-<tr>
-<td>💬 TEAM UP Website</td>
+<td>💬 TeamUp</td>
 <td>Team collaboration platform</td>
 <td>MERN Stack</td>
 <td><a href="https://hietteam.netlify.app/">Live</a></td>
 </tr>
-
-</tbody>
 
 </table>
 
