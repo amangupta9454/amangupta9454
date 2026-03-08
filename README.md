@@ -176,123 +176,277 @@
 </section>
 
 <hr>
-
 <section>
 
-<h2>🆕 Exciting Features</h2>
+<h2>✨ Developer Profile Highlights</h2>
 
-<table border="1" cellpadding="10" cellspacing="0">
+<p>
+This profile showcases my journey as a <b>Full-Stack Developer</b> and <b>AI Enthusiast</b>.  
+My work focuses on building scalable platforms, solving real-world problems using modern web technologies, 
+and contributing to open-source innovation.
+</p>
+
+<table border="1" cellpadding="10">
 
 <tr>
-<td>📊</td>
-<td>Dynamic GitHub Stats & Activity</td>
+<th>Feature</th>
+<th>Description</th>
 </tr>
 
 <tr>
-<td>🎯</td>
-<td>Interactive Learning Roadmap with Progress Badges</td>
+<td>📊 Dynamic GitHub Analytics</td>
+<td>Live statistics including commits, repositories, languages, and contribution patterns.</td>
 </tr>
 
 <tr>
-<td>🌈</td>
-<td>Animated streaks, graphs, and activity cards</td>
+<td>🎯 Structured Learning Roadmap</td>
+<td>Public roadmap that tracks skills development in AI, full-stack engineering, and system design.</td>
 </tr>
 
 <tr>
-<td>👤</td>
-<td>Visitors badge for social proof</td>
+<td>🌈 Visual Contribution Streaks</td>
+<td>Animated graphs and streak cards representing consistent coding and contribution habits.</td>
 </tr>
 
 <tr>
-<td>✨</td>
-<td>Collapsible stack & tools section</td>
+<td>👁 Profile Visitor Counter</td>
+<td>Shows how many developers, recruiters, and collaborators visited the profile.</td>
 </tr>
 
 <tr>
-<td>🖼</td>
-<td>Developer achievements timeline</td>
+<td>🧠 Technical Stack Showcase</td>
+<td>Expandable section presenting my frontend, backend, cloud, and developer tools expertise.</td>
 </tr>
 
 <tr>
-<td>🌐</td>
-<td>Social preview card for sharing projects</td>
+<td>🖼 Developer Achievement Timeline</td>
+<td>Highlights key milestones including projects, hackathons, and competitions.</td>
 </tr>
 
 <tr>
-<td>🚀</td>
-<td>Deploy buttons for demo projects</td>
+<td>🌐 Social Share Preview</td>
+<td>Optimized preview cards when sharing the profile on LinkedIn, Twitter, or developer communities.</td>
 </tr>
 
 <tr>
-<td>🎥</td>
-<td>GIF demo or video showcase for flagship projects</td>
+<td>🚀 Live Project Deployment</td>
+<td>Direct links to deployed applications for demonstration and testing.</td>
+</tr>
+
+<tr>
+<td>🎥 Interactive Project Demos</td>
+<td>GIF/video walkthroughs explaining how flagship applications function.</td>
+</tr>
+
+<tr>
+<td>💡 Real-World Problem Solving</td>
+<td>Projects designed to address practical challenges such as career guidance, agriculture platforms, and healthcare.</td>
 </tr>
 
 </table>
 
 </section>
+
 <hr>
 
-## 📚 Learning Roadmap – 2025
+<section>
 
-- ✅ Mastered foundational `LLMs`
-- 🔍 Deep dive: `Next.js & DSA` & Edge Functions
-- 🔁 Launch new SaaS side project
-- 👩‍💻 Major AI open source contributions
-- 📈 Public speaking on frontend & AI
+<h2>📚 Learning Roadmap – 2025</h2>
 
----
-
-## 🏅 Certifications & Achievements
-
-
-- ✅ Contributor – GirlScript Summer of Code
-- 🪪 6+ Industry Certifications, including Cloud Computing
-- 🥇 Winner – CodeRush Weekly #4
-- 🏅 Winner – Gambed Quiz Contest
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amangupta9454&show_icons=true&theme=transparent&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta9454&theme=transparent" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta9454&theme=transparent" width="96%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta9454&theme=github-compact" width="96%" />
+<p>
+My learning roadmap focuses on mastering advanced development technologies, artificial intelligence systems, 
+and scalable software architecture.
 </p>
 
----
+<table border="1" cellpadding="10">
 
-## 📅 Achievements Timeline (NEW!)
+<tr>
+<th>Status</th>
+<th>Focus Area</th>
+<th>Description</th>
+</tr>
 
-| Year | Milestone                         |
-|------|-----------------------------------|
-| 2025 | Launched AI Career Coach v2.0     |
-| 2024 | Delivered 3 Full Stack Projects   |
-| 2025 | Participated in Hackathon         |
+<tr>
+<td>✅ Completed</td>
+<td>Large Language Models (LLMs)</td>
+<td>Studied the architecture and applications of modern generative AI systems.</td>
+</tr>
 
----
+<tr>
+<td>🔍 In Progress</td>
+<td>Next.js & System Design</td>
+<td>Exploring advanced React frameworks, SSR, and scalable application patterns.</td>
+</tr>
 
-## 🔗 Connect With Me
+<tr>
+<td>📘 In Progress</td>
+<td>Data Structures & Algorithms</td>
+<td>Strengthening problem-solving ability and algorithmic thinking.</td>
+</tr>
 
-<p align="center">
-  <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/amangupta9454/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="http://gupta-aman-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
-  <a href="https://twitter.com/ag0567688"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<tr>
+<td>🚀 Planned</td>
+<td>AI SaaS Product</td>
+<td>Building a production-ready SaaS platform integrating AI-powered features.</td>
+</tr>
+
+<tr>
+<td>🌍 Planned</td>
+<td>Open Source Contributions</td>
+<td>Contributing to global developer communities and impactful open-source projects.</td>
+</tr>
+
+<tr>
+<td>🎤 Planned</td>
+<td>Technical Speaking</td>
+<td>Sharing insights on AI development, frontend engineering, and modern web architecture.</td>
+</tr>
+
+</table>
+
+</section>
+
+<hr>
+
+<section>
+
+<h2>🏅 Certifications & Professional Achievements</h2>
+
+<table border="1" cellpadding="10">
+
+<tr>
+<th>Category</th>
+<th>Achievement</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>🌍 Open Source</td>
+<td>GirlScript Summer of Code Contributor</td>
+<td>Contributed to open-source projects and collaborated with global developers.</td>
+</tr>
+
+<tr>
+<td>📜 Certifications</td>
+<td>Industry Technology Certifications</td>
+<td>Earned multiple certifications including Cloud Computing and Web Development.</td>
+</tr>
+
+<tr>
+<td>🥇 Programming Competition</td>
+<td>Winner – CodeRush Weekly #4</td>
+<td>Recognized for competitive programming and algorithmic skills.</td>
+</tr>
+
+<tr>
+<td>🏅 Technical Quiz</td>
+<td>Winner – Gambed Technical Quiz Contest</td>
+<td>Demonstrated strong technical and problem-solving knowledge.</td>
+</tr>
+
+</table>
+
+</section>
+
+<hr>
+
+<section align="center">
+
+<h2>📈 GitHub Insights</h2>
+
+<p>
+These insights represent my coding consistency, repository contributions, and project development activity.
 </p>
 
----
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=amangupta9454&show_icons=true&theme=transparent" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta9454&theme=transparent" width="48%">
+</p>
 
-## 📌 Quote I Believe
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta9454&theme=transparent" width="96%">
+</p>
 
-> “Great developers don’t just write code — they craft experiences.”
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta9454&theme=github-compact" width="96%">
+</p>
 
+</section>
+
+<hr>
+
+<section>
+
+<h2>📅 Developer Journey Timeline</h2>
+
+<table border="1" cellpadding="10">
+
+<tr>
+<th>Year</th>
+<th>Milestone</th>
+</tr>
+
+<tr>
+<td>2025</td>
+<td>Launched AI Career Coach Platform with AI-driven career guidance.</td>
+</tr>
+
+<tr>
+<td>2024</td>
+<td>Developed multiple production-ready full-stack web applications.</td>
+</tr>
+
+<tr>
+<td>2025</td>
+<td>Participated in national hackathons and developer competitions.</td>
+</tr>
+
+<tr>
+<td>2026</td>
+<td>Building advanced AI-powered platforms in healthcare and career development.</td>
+</tr>
+
+</table>
+
+</section>
+
+<hr>
+
+<section align="center">
+
+<h2>🔗 Connect With Me</h2>
+
+<p>
+<a href="mailto:ag0567688@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/amangupta9454/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="http://gupta-aman-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge">
+</a>
+
+<a href="https://twitter.com/ag0567688">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+</p>
+
+</section>
+
+<hr>
+
+<section align="center">
+
+<h2>💡 Developer Philosophy</h2>
+
+<p>
+<b>“Great developers don’t just write code — they design experiences, solve problems, and create impact.”</b>
+</p>
+
+</section>
 <p align="center"><b>✨ Thanks for visiting — let's build something awesome together! ✨</b></p>
 
 ---
