@@ -154,14 +154,14 @@
 <td>🌾 AgriFarmio</td>
 <td>Smart agriculture platform</td>
 <td>MERN • Gemini API</td>
-<td><a href="https://agrifarmio.netlify.app/">Live</a></td>
+<td><a href="https://agri-farmio.netlify.app/">Live</a></td>
 </tr>
 
 <tr>
 <td>🎓 Crossroads Tech Fest</td>
 <td>Event platform for college tech fest</td>
 <td>MERN • GSAP</td>
-<td><a href="https://hiet-crossroads.netlify.app/">Live</a></td>
+<td><a href="https://crossroads-hiet.netlify.app/">Live</a></td>
 </tr>
 
 <tr>
@@ -445,10 +445,187 @@ These insights represent my coding consistency, repository contributions, and pr
 <p>
 <b>“Great developers don’t just write code — they design experiences, solve problems, and create impact.”</b>
 </p>
-
+<hr>
 </section>
 <p align="center"><b>✨ Thanks for visiting — let's build something awesome together! ✨</b></p>
+<hr>
 
----
+<section align="center">
+
+<h2>🏆 GitHub Trophy Wall</h2>
+
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=amangupta9454&theme=flat&row=1&column=6" />
+</p>
+
+</section>
+
+<hr>
+
+<section align="center">
+
+<h2>📊 Most Used Languages</h2>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta9454&layout=compact&theme=transparent&langs_count=8" />
+</p>
+
+</section>
+
+<hr>
+
+<section>
+
+<h2>📊 Skill Progress</h2>
+
+<table border="1" cellpadding="10">
+
+<tr>
+<th>Technology</th>
+<th>Expertise Level</th>
+</tr>
+
+<tr>
+<td>JavaScript / TypeScript</td>
+<td>
+████████████████████ 90%
+</td>
+</tr>
+
+<tr>
+<td>React / Frontend Development</td>
+<td>
+███████████████████ 85%
+</td>
+</tr>
+
+<tr>
+<td>Node.js / Backend Development</td>
+<td>
+██████████████████ 82%
+</td>
+</tr>
+
+<tr>
+<td>AI Integration & APIs</td>
+<td>
+████████████████ 75%
+</td>
+</tr>
+
+<tr>
+<td>Database Design</td>
+<td>
+███████████████ 70%
+</td>
+</tr>
+
+<tr>
+<td>DevOps / Deployment</td>
+<td>
+█████████████ 65%
+</td>
+</tr>
+
+</table>
+
+</section>
+
+<hr>
+
+<section>
+
+<h2>🚀 Featured & Pinned Projects</h2>
+
+<table border="1" cellpadding="10">
+
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Demo</th>
+</tr>
+
+<tr>
+<td>🧠 AI Career Coach</td>
+<td>AI-powered career roadmap generator helping students discover career paths.</td>
+<td>React • Node.js • Gemini AI</td>
+<td><a href="https://mindstep.netlify.app/">Live Demo</a></td>
+</tr>
+
+<tr>
+<td>🤱 MATRUCARE AI</td>
+<td>Maternal healthcare platform connecting mothers, doctors, and ASHA workers.</td>
+<td>MERN Stack • AI</td>
+<td><a href="https://matrucare-ai.netlify.app/">Live Demo</a></td>
+</tr>
+
+<tr>
+<td>🌾 AgriFarmio</td>
+<td>Digital agriculture platform connecting farmers with consumers.</td>
+<td>MERN • AI APIs</td>
+<td><a href="https://agri-farmio.netlify.app/">Live Demo</a></td>
+</tr>
+
+<tr>
+<td>🎓 Crossroads Tech Fest</td>
+<td>College tech fest management platform.</td>
+<td>MERN Stack</td>
+<td><a href="https://hiet-crossroads.online/">Live Demo</a></td>
+</tr>
+
+</table>
+
+</section>
+
+<hr>
+
+<section>
+
+<h2>🧠 AI Projects Showcase</h2>
+
+<table border="1" cellpadding="10">
+
+<tr>
+<th>Project</th>
+<th>AI Feature</th>
+<th>Impact</th>
+</tr>
+
+<!-- <tr>
+<td>AI Career Coach</td>
+<td>AI-powered career recommendations using LLMs.</td>
+<td>Helps students plan skill-based career paths.</td>
+</tr> -->
+
+<tr>
+<td>MATRUCARE AI</td>
+<td>Healthcare decision support and maternal health monitoring.</td>
+<td>Improves maternal healthcare accessibility.</td>
+</tr>
+
+<tr>
+<td>AgriFarmio</td>
+<td>AI-based agriculture insights and crop intelligence.</td>
+<td>Supports farmers with smarter crop planning.</td>
+</tr>
+
+</table>
+
+</section>
+
+<hr>
+
+<section align="center">
+
+<h2>🐍 Contribution Activity</h2>
+
+<p>
+<img src="https://raw.githubusercontent.com/amangupta9454/amangupta9454/output/github-contribution-grid-snake.svg" />
+</p>
+
+</section>
+
+<hr>
 
 
