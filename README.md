@@ -256,7 +256,7 @@ and contributing to open-source innovation.
 
 <section>
 
-<h2>📚 Learning Roadmap – 2025</h2>
+<h2>📚 Learning Roadmap – 2026</h2>
 
 <p>
 My learning roadmap focuses on mastering advanced development technologies, artificial intelligence systems, 
@@ -279,7 +279,7 @@ and scalable software architecture.
 
 <tr>
 <td>🔍 In Progress</td>
-<td>Next.js & System Design</td>
+<td>Machine Learning & System Design</td>
 <td>Exploring advanced React frameworks, SSR, and scalable application patterns.</td>
 </tr>
 
@@ -392,12 +392,16 @@ These insights represent my coding consistency, repository contributions, and pr
 </tr>
 
 <tr>
+<td>2026</td>
+<td>Launched Matru Care AI Platform with AI-driven healthcare guidance.</td>
+</tr>
+<tr>
 <td>2025</td>
-<td>Launched AI Career Coach Platform with AI-driven career guidance.</td>
+<td>Launched AI Career Coach Platform with AI-driven career guidance and College Technical Fest Registration Website.</td>
 </tr>
 
 <tr>
-<td>2024</td>
+<td>2024-2025</td>
 <td>Developed multiple production-ready full-stack web applications.</td>
 </tr>
 
@@ -452,8 +456,6 @@ These insights represent my coding consistency, repository contributions, and pr
 </p>
 <hr>
 </section>
-<p align="center"><b>✨ Thanks for visiting — let's build something awesome together! ✨</b></p>
-<hr>
 
 <section align="center">
 
@@ -631,6 +633,8 @@ These insights represent my coding consistency, repository contributions, and pr
 
 </section>
 
+<hr>
+<p align="center"><b>✨ Thanks for visiting — let's build something awesome together! ✨</b></p>
 <hr>
 
 
