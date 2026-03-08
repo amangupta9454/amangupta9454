@@ -7,7 +7,7 @@
 </p>
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00B8D4&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+AI+Explorer;Building+AI+Career+Coach+Platforms;Open+Source+Contributor+%7C+Always+Learning;Passionate+About+Solving+Real+World+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00B8D4&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+AI+Explorer;Building+MATRU+CARE+AI+Platforms;Open+Source+Contributor+%7C+Always+Learning;Passionate+About+Solving+Real+World+Problems" />
 </p>
 
 <p>
@@ -62,6 +62,11 @@
 </tr>
 
 <tr>
+<td>🥇</td>
+<td>1st Place – Crossroads 2024 (GAMMBED QUIZ COMPETITION)</td>
+</tr>
+
+<tr>
 <td>🚀</td>
 <td>Built 8+ Full Stack Projects</td>
 </tr>
@@ -84,7 +89,7 @@
 <h3>Languages</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,typescript,python,c" />
+<img src="https://skillicons.dev/icons?i=js,python,c" />
 </p>
 
 <h3>Frontend</h3>
@@ -110,13 +115,13 @@
 <h3>Cloud & DevOps</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,docker" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
 </p>
 
 <h3>Tools</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,anaconda,cursor,antigravity" />
 </p>
 
 </section>
